@@ -1,2 +1,17 @@
-# STM32F103-Series-of-projects
-The project code made using STM32F103C8T6
+本仓库汇集了我使用 STM32 系列芯片（如 STM32F103、F407 等） 开发的一系列嵌入式项目，
+
+涵盖智能小车、传感器采集、人机交互、通信协议等多个方向。
+
+所有项目均经过实际调试，代码结构清晰，适合学习与二次开发。
+
+🧰 开发环境 IDE：Keil MDK / STM32CubeIDE/VS code
+
+库版本：HAL 库 / 标准外设库（根据项目而定）
+
+调试工具：ST-Link / J-Link
+
+辅助工具：串口助手、逻辑分析仪等
+
+欢迎 Star ⭐、Fork 🍴 和提交 Issue！ 如果你有改进建议、Bug 反馈，或想合作新项目，请随时联系！
+
+2052985452@qq.com
