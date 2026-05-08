@@ -1,4 +1,4 @@
-#include "stm32f10x.h"                  // Device header
+// 按键检测
 #include "Delay.h"
 
 void Key_Init(void)
