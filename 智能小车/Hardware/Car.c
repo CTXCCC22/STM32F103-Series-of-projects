@@ -71,3 +71,4 @@ void Turn_Around_Right(void)
 	Motor_SetLeftSpeed(99);
 	Motor_SetRightSpeed(99);
 }
+// 功能：小车行进方向控制
